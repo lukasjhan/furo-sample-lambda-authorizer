@@ -1,0 +1,18 @@
+{
+  "name": "furo-sample-lambda-authorizer",
+  "version": "1.0.0",
+  "description": "Sample AWS Lambda custom authorizer for Furo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "lambda"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  }
+}
