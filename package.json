@@ -4,7 +4,7 @@
   "description": "Sample AWS Lambda custom authorizer for Furo",
   "main": "index.js",
   "scripts": {
-    "zip": "zip -r authorizer.zip index.js lib.js node_modules"
+    "zip": "zip -r authorizer.zip index.js node_modules"
   },
   "keywords": [
     "aws",
